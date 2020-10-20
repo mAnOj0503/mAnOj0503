@@ -3,7 +3,7 @@
 <p align='center'>
  <!--<a href="https://www.instagram.com/jyotsna_tiwary/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/jtiwary0503"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;-->
-<a href="https://www.linkedin.com/in/saimanoj0503/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/saimanoj75/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 <div align='center'>
  
@@ -34,7 +34,7 @@
 
 ### My Github Stats
 
-![Saimanoj's github stats](https://github-readme-stats.vercel.app/api/?username=mAnOj0503&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
+![Saimanoj Seshagiri github stats](https://github-readme-stats.vercel.app/api/?username=saimanoj75&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 
  
  </div>
