@@ -16,7 +16,7 @@
 * **🌱 I’m currently learning** React development, Linux Kernel
 * **👯 I’m looking to collaborate on** Web Development and Data science/ Machine Learning/ NLP
 * **💬 Ask me about** Web Development, Data science, SQL, Deep Learning
-* **⚡ Fun fact** I am a national level Muay Thai player and can actully break bones :)
+* **⚡ Fun fact** I am a Candid & Wild Life Photographer :)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--## My featured articles on <a href="https://medium.com/@beriaditya20">Medium</a>
