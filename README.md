@@ -10,7 +10,7 @@
 
 </div>
 
-<p align="center">I am Saimanoj S, a Final year Under Graduate student at Sagi Rama Krishnam Raju Engineering College, Bhimavaram, India. I am currently working as a Web Developer Intern with the SanRon Consultancy Services LLP. I'm part of a group that is Spark AR Facilitator for Spack AR Technology. where we focus on Image Filters on Facebook and Instagram and I'm part of a Google Cloud Facilitator Program by Government Engineering College, Idukki (GECI), Kerala.Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things; wish to travel the world and try every cuisine.</p>
+<p align="center">I am Saimanoj S, a Graduate student at Sagi Rama Krishnam Raju Engineering College, Bhimavaram, India. I am currently working as a Web Developer Intern with the SanRon Consultancy Services LLP. I'm part of a group that is Spark AR Facilitator for Spack AR Technology. where we focus on Image Filters on Facebook and Instagram and I'm part of a Google Cloud Facilitator Program by Government Engineering College, Idukki (GECI), Kerala.Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things; wish to travel the world and try every cuisine.</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * **🌱 I’m currently learning** React development, Linux Kernel
@@ -23,9 +23,9 @@
 
 [🚀 Real world application of DSA to model and monitor corona-virus.🔥](https://medium.com/datadriveninvestor/graphs-trees-in-real-world-df24ef23b358)
 
-[🦄 Too much and too little, Data ⚡️](https://medium.com/datadriveninvestor/too-much-and-too-little-data-763910a833d8)
+[🦄 Too much and too little, Data ⚡️](https://medium.com/datadriveninvestor/too-much-and-too-little-data-763910a833d8)-->
 
-[🔧 Intelligent chatbot? 🌈](https://medium.com/voice-tech-podcast/intelligent-chat-bot-14e3571c6a0e)-->
+<!--[🔧 Intelligent chatbot? 🌈](https://medium.com/voice-tech-podcast/intelligent-chat-bot-14e3571c6a0e)-->
 
 
 
