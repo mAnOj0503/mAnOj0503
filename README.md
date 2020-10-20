@@ -23,9 +23,9 @@
 
 [🚀 Real world application of DSA to model and monitor corona-virus.🔥](https://medium.com/datadriveninvestor/graphs-trees-in-real-world-df24ef23b358)
 
-[🦄 Too much and too little, Data ⚡️](https://medium.com/datadriveninvestor/too-much-and-too-little-data-763910a833d8)-->
+[🦄 Too much and too little, Data ⚡️](https://medium.com/datadriveninvestor/too-much-and-too-little-data-763910a833d8)
 
-<!--[🔧 Intelligent chatbot? 🌈](https://medium.com/voice-tech-podcast/intelligent-chat-bot-14e3571c6a0e)-->
+[🔧 Intelligent chatbot? 🌈](https://medium.com/voice-tech-podcast/intelligent-chat-bot-14e3571c6a0e)-->
 
 
 
