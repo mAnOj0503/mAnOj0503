@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimanoj75" alt="saimanoj75" /> </p>
 
+<p align="center">I am Saimanoj S, a Graduate student at Sagi Rama Krishnam Raju Engineering College, Bhimavaram, India. I am currently working as a Web Developer Intern with the SanRon Consultancy Services LLP. I'm part of a group that is Spark AR Facilitator for Spack AR Technology. where we focus on Image Filters on Facebook and Instagram and I'm part of a Google Cloud Facilitator Program by Government Engineering College, Idukki (GECI), Kerala.Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things; wish to travel the world and try every cuisine.</p>
+
+
 - 🔭 I’m working on my personal project.
 
 - 🌱 I’m currently learning **React and JavaScript**
 
-- 📝 I regularly write articles on [https://medium.com/@saimanojseshagiri3](https://medium.com/@saimanojseshagiri3)
+- 📝 I regularly write articles on [https://medium.com/@saimanojseshagiri3](https://medium.com/@saimanoj06)
 
 - 💬 Ask me about **Spark AR and R**
 
