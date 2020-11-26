@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React and JavaScript**
 
-- 📝 I regularly write articles on [https://medium.com/@saimanojseshagiri3](https://medium.com/@saimanoj06)
+- 📝 I write articles on [https://medium.com/@saimanoj06](https://medium.com/@saimanoj06)
 
 - 💬 Ask me about **Spark AR and R**
 
