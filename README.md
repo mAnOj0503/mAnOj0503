@@ -32,3 +32,4 @@
 <a href="https://instagram.com/saim_anoj75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saim_anoj75" height="20" width="20" /></a>
 <a href="https://medium.com/@saimanoj06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saimanoj06" height="20" width="20" /></a>
 </p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saimanoj75)
