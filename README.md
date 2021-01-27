@@ -26,6 +26,8 @@
 
 - 📫 How to reach me **saimanojseshagiri3@gmail.com**
 
+- 🤔 I’m looking for help with algorithms and data structures
+
 - ⚡ Fun fact **Photography ❤ Travelling**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
