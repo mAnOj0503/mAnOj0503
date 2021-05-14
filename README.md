@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **React and JavaScript**
 
-- 📝 I write articles on [https://medium.com/@saimanoj](https://medium.com/@saimanoj)
+- 📝 I write articles on [https://medium.com/@saimanoj75](https://medium.com/@saimanoj)
 
 - 💬 Ask me about **Spark AR and R**
 
