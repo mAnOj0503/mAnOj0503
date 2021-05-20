@@ -12,7 +12,7 @@
 
 ### 👨🏽‍💻 About Me
 
-<p align="justify">I am Saimanoj S, a Pursuing Student at Sagi Rama Krishnam Raju Engineering College, Bhimavaram, India. I am a Former Software Development Intern with the SanRon Consultancy Services LLP. I'm part of a group that is Spark AR Facilitator for Spack AR Technology. where we focus on Image Filters on Facebook and Instagram and I'm part of a Google Cloud Facilitator Program by Government Engineering College, Idukki (GECI), Kerala.Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things and wish to travel the world and try every cuisine.</p>
+<p align="justify">I am Saimanoj S, a Graduated Student at Sagi Rama Krishnam Raju Engineering College, Bhimavaram, India. I am a Former Software Development Intern with the SanRon Consultancy Services LLP. I'm part of a group that is Spark AR Facilitator for Spack AR Technology. where we focus on Image Filters on Facebook and Instagram and I'm part of a Google Cloud Facilitator Program by Government Engineering College, Idukki (GECI), Kerala.Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things and wish to travel the world and try every cuisine.</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
