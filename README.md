@@ -5,7 +5,7 @@
 <a href="https://twitter.com/saimanoj75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/saimanoj75" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/saimanoj75/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saimanoj75/" height="20" width="20" /></a>
 <a href="https://instagram.com/saim_anoj75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saim_anoj75" height="20" width="20" /></a>
-<a href="https://medium.com/@saimanoj75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saimanoj" height="20" width="20" /></a>
+<a href="https://medium.com/saimanoj75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saimanoj" height="20" width="20" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimanoj75" alt="saimanoj75" /> </p>
@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **React and JavaScript**
 
-- 📝 I write articles on [https://medium.com/@saimanoj75](https://medium.com/@saimanoj)
+- 📝 I write articles on [https://medium.com/saimanoj75](https://medium.com/@saimanoj75)
 
 - 💬 Ask me about **Spark AR and R**
 
