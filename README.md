@@ -39,13 +39,13 @@ Hey! I'm Saimanoj Seshagiri, a Software Development Intern at [**SanRon**] worki
 
 <br/>
 
-  [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/saimanoj75)
+  [![Saimanoj75 GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saimanoj75&theme=xcode)](https://git.io/saimanoj75)
   
-   ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=saimanoj75&theme=prussian&show_icons=true&count_private=true)
+   ![Saimanoj75 GitHub stats](https://github-readme-stats.vercel.app/api/?username=saimanoj75&theme=prussian&show_icons=true&count_private=true)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saimanoj75&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
-   ![Skyline](https://github.com/ShreyaPrasad1209/saimanoj75/blob/master/github-metrics.svg)
+   ![Skyline](https://github.com/saimanoj75/blob/master/github-metrics.svg)
 
