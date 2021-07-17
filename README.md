@@ -7,7 +7,7 @@
    
    ## :wave: About Me 
 <a href="https://twitter.com/saimanoj75" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saimanoj75/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Shreya, a Software Development Intern at [**SanRon**] working out of Hyderabad, India. I have a soft spot for technology and communities 💖 I am a [**GitHub Student Developer**] I’m learning React Js and Google Cloud Platform. I am an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
+Hey! I'm Saimanoj Seshagiri, a Software Development Intern at [**SanRon**] working out of Hyderabad, India. I have a soft spot for technology and communities 💖 I am a [**GitHub Student Developer**] I’m learning React Js and Google Cloud Platform. I am an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
@@ -39,13 +39,13 @@ Hey! I'm Shreya, a Software Development Intern at [**SanRon**] working out of Hy
 
 <br/>
 
-  [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
+  [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/saimanoj75)
   
-   ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ShreyaPrasad1209&theme=prussian&show_icons=true&count_private=true)
+   ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=saimanoj75&theme=prussian&show_icons=true&count_private=true)
    <br />
    <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyaPrasad1209&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saimanoj75&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
-   ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg)
+   ![Skyline](https://github.com/ShreyaPrasad1209/saimanoj75/blob/master/github-metrics.svg)
 
