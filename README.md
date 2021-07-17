@@ -47,5 +47,4 @@ Hey! I'm Saimanoj Seshagiri, a Software Development Intern at [**SanRon**] worki
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saimanoj75&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
-   ![Skyline](https://github.com/saimanoj75/blob/master/github-metrics.svg)
 
