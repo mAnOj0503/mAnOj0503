@@ -38,8 +38,6 @@ Hey! I'm Saimanoj Seshagiri, a Software Development Intern at [**SanRon**] worki
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-
-  [![Saimanoj75 GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saimanoj75&theme=xcode)](https://git.io/saimanoj75)
   
    ![Saimanoj75 GitHub stats](https://github-readme-stats.vercel.app/api/?username=saimanoj75&theme=prussian&show_icons=true&count_private=true)
    <br />
