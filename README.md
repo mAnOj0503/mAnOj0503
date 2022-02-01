@@ -4,7 +4,7 @@
    
    ## :wave: About Me 
 <a href="https://twitter.com/saimanoj75" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saimanoj75/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hello 👋🏻, I'm Saimanoj Seshagiri, a CSE graduate from SRKREC and now working as a Software Engineer Trainee at TechnoServe. I am passionate about communities and mentoring. Enthusiastic Software Engineering is as much about people as it is about technology. Apart from coding, I enjoy watching animes, playing badminton, baking, and listening to music ❤️
+Hello 👋🏻, I'm Saimanoj Seshagiri, a CSE graduate from SRKREC and now working as a SDE Intern [at] Accenture & Engineer Trainee at TechnoServe. I am passionate about communities and mentoring. Enthusiastic Software Engineering is as much about people as it is about technology. Apart from coding, I enjoy watching animes, playing badminton, baking, and listening to music ❤️
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
