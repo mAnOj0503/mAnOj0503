@@ -5,7 +5,7 @@
    ## :wave: About Me 
 <a href="https://twitter.com/saimanoj75" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saimanoj75/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-Hello 👋🏻 I’m Saimanoj Seshagiri currently working as an Oracle Middleware Administrator Accenture and Prev xCapgemini Engineer Trainee | xAccenture SDE Intern Additionally, I hold positions as a Developer Advocate & AR Specialist and a Mozillian. I’m passionate about communities and mentoring, believing that software engineering is as much about people as it is about technology.
+Hello 👋🏻 I’m Saimanoj Seshagiri currently working as an Oracle Middleware Administrator Accenture and Prev xAccenture SDE Intern / xCapgemini Engineer Trainee |  Additionally, I hold positions as a Developer Advocate Swecha & AR Specialist and a Mozillian. I’m passionate about communities and mentoring, believing that software engineering is as much about people as it is about technology.
 <br> 
 
 ## 🛠 &nbsp;Tech Stack
